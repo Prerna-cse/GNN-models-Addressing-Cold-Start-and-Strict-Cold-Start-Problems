@@ -1,4 +1,4 @@
-# GNN-models-Addressing-Cold-Start-and-Strict-Cold-Start-Problems
+# GNN-based Recommendation System for CS and SCS
 Repository of papers reviewed in the papers "A Systematic Literature Review of Addressing Strict Cold-Start and Cold-Start Problems in Recommender Systems: A focus on Graph Neural Network".
 
 # Review Papers that are used for comparision:
